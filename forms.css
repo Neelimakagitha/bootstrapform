@@ -1,0 +1,29 @@
+.main{
+    background-color: lightgrey;
+    width:400px;
+    height:650px;
+    margin:auto;
+    border-radius:10px;
+}
+.n{
+    width:400px;
+    height:150px;
+    background-color: blue;
+    border-radius: 5px;
+    color:white;
+    text-align: center;
+    margin-top:0;
+    text-decoration: none;
+}
+.h a{
+    margin:auto;
+}
+.button{
+    border-radius: 5px;
+}
+button:hover{
+    background-color: darkmagenta;
+    animation-duration: 4s;
+    opacity:0.5;
+    
+}
